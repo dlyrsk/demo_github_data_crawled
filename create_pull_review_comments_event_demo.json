@@ -1,0 +1,68 @@
+{
+    "url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/comments/216113305",
+    "pull_request_review_id": 153535050,
+    "id": 216113305,
+    "node_id": "MDI0OlB1bGxSZXF1ZXN0UmV2aWV3Q29tbWVudDIxNjExMzMwNQ==",
+    "diff_hunk": "@@ -188,6 +195,9 @@ public ModelResourceLocation getModelLocation(@Nonnull ItemStack stack)\n         ModelLoader.setCustomStateMapper(BlocksTFC.INGOT_PILE, blockIn -> ImmutableMap.of(BlocksTFC.INGOT_PILE.getDefaultState(), new ModelResourceLocation(\"tfc:empty\")));\n         ClientRegistry.bindTileEntitySpecialRenderer(TEIngotPile.class, new TESRIngotPile());\n \n+        ModelLoader.setCustomStateMapper(BlocksTFC.INGOT_PILE, blockIn -> ImmutableMap.of(BlocksTFC.INGOT_PILE.getDefaultState(), new ModelResourceLocation(\"tfc:empty\")));",
+    "path": "src/main/java/net/dries007/tfc/client/ClientRegisterEvents.java",
+    "commit_id": "1d8969b4666d094e3f97b27a08db753fe713873a",
+    "original_commit_id": "1d8969b4666d094e3f97b27a08db753fe713873a",
+    "user": {
+        "login": "alcatrazEscapee",
+        "id": 35673674,
+        "node_id": "MDQ6VXNlcjM1NjczNjc0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35673674?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/alcatrazEscapee",
+        "html_url": "https://github.com/alcatrazEscapee",
+        "followers_url": "https://api.github.com/users/alcatrazEscapee/followers",
+        "following_url": "https://api.github.com/users/alcatrazEscapee/following{/other_user}",
+        "gists_url": "https://api.github.com/users/alcatrazEscapee/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/alcatrazEscapee/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/alcatrazEscapee/subscriptions",
+        "organizations_url": "https://api.github.com/users/alcatrazEscapee/orgs",
+        "repos_url": "https://api.github.com/users/alcatrazEscapee/repos",
+        "events_url": "https://api.github.com/users/alcatrazEscapee/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/alcatrazEscapee/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "body": "Why have these been duplicated?",
+    "created_at": "2018-09-08T00:17:21Z",
+    "updated_at": "2018-09-08T00:17:22Z",
+    "html_url": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/pull/12#discussion_r216113305",
+    "pull_request_url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/12",
+    "author_association": "MEMBER",
+    "_links": {
+        "self": {
+            "href": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/comments/216113305"
+        },
+        "html": {
+            "href": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/pull/12#discussion_r216113305"
+        },
+        "pull_request": {
+            "href": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/12"
+        }
+    },
+    "reactions": {
+        "url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/comments/216113305/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+    },
+    "start_line": null,
+    "original_start_line": null,
+    "start_side": null,
+    "line": 198,
+    "original_line": 198,
+    "side": "RIGHT",
+    "original_position": 32,
+    "position": 32,
+    "subject_type": "line"
+}

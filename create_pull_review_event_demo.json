@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1103043594,
+        "node_id": "PRR_kwDOB86wus5BvxwK",
+        "user": {
+            "login": "alcatrazEscapee",
+            "id": 35673674,
+            "node_id": "MDQ6VXNlcjM1NjczNjc0",
+            "avatar_url": "https://avatars.githubusercontent.com/u/35673674?u=f506a211bc32885e133dbb899cd9312351d0bbb7&v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/alcatrazEscapee",
+            "html_url": "https://github.com/alcatrazEscapee",
+            "followers_url": "https://api.github.com/users/alcatrazEscapee/followers",
+            "following_url": "https://api.github.com/users/alcatrazEscapee/following{/other_user}",
+            "gists_url": "https://api.github.com/users/alcatrazEscapee/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/alcatrazEscapee/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/alcatrazEscapee/subscriptions",
+            "organizations_url": "https://api.github.com/users/alcatrazEscapee/orgs",
+            "repos_url": "https://api.github.com/users/alcatrazEscapee/repos",
+            "events_url": "https://api.github.com/users/alcatrazEscapee/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/alcatrazEscapee/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "body": "I have one major concern, which is how does this interact with `IItemHandler` ? i.e. if *anything* calls `getCapability()` and asks for an item handler, does that not need to call `unpackLootTable`?\r\n\r\nFor example, in vanilla, putting a hopper underneath a vessel with a loot table.\r\n1. What does a chest do? I'm assuming it drains the contents?\r\n2. What does a vessel do?\r\n\r\nWhat happens if you pipe items into a loot table'd vessel with a hopper? I would think it just deletes the items? Or deletes the loot table?",
+        "state": "COMMENTED",
+        "html_url": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/pull/2102#pullrequestreview-1103043594",
+        "pull_request_url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/2102",
+        "author_association": "MEMBER",
+        "_links": {
+            "html": {
+                "href": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/pull/2102#pullrequestreview-1103043594"
+            },
+            "pull_request": {
+                "href": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/pulls/2102"
+            }
+        },
+        "submitted_at": "2022-09-10T04:02:38Z",
+        "commit_id": "743970d687519e3aaf4f3bd56cac343af23705ea"
+    }
+]

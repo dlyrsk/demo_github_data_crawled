@@ -1,0 +1,98 @@
+{
+    "sha": "1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3",
+    "node_id": "C_kwDOB86wutoAKDFhZjFhMDY3NDQ1MzFjZjdjYmFhYWJmYWEyOWM0NDYwYmI5YWM3YjM",
+    "commit": {
+        "author": {
+            "name": "AlcatrazEscapee",
+            "email": "alex@molleroneill.com",
+            "date": "2023-08-26T22:33:05Z"
+        },
+        "committer": {
+            "name": "AlcatrazEscapee",
+            "email": "alex@molleroneill.com",
+            "date": "2023-08-26T22:33:05Z"
+        },
+        "message": "Fix another preservation exploit.",
+        "tree": {
+            "sha": "efa67204bae32ee71abf17c06345b554c2823769",
+            "url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/git/trees/efa67204bae32ee71abf17c06345b554c2823769"
+        },
+        "url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/git/commits/1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3",
+        "comment_count": 0,
+        "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null
+        }
+    },
+    "url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/commits/1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3",
+    "html_url": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/commit/1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3",
+    "comments_url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/commits/1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3/comments",
+    "author": {
+        "login": "alcatrazEscapee",
+        "id": 35673674,
+        "node_id": "MDQ6VXNlcjM1NjczNjc0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35673674?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/alcatrazEscapee",
+        "html_url": "https://github.com/alcatrazEscapee",
+        "followers_url": "https://api.github.com/users/alcatrazEscapee/followers",
+        "following_url": "https://api.github.com/users/alcatrazEscapee/following{/other_user}",
+        "gists_url": "https://api.github.com/users/alcatrazEscapee/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/alcatrazEscapee/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/alcatrazEscapee/subscriptions",
+        "organizations_url": "https://api.github.com/users/alcatrazEscapee/orgs",
+        "repos_url": "https://api.github.com/users/alcatrazEscapee/repos",
+        "events_url": "https://api.github.com/users/alcatrazEscapee/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/alcatrazEscapee/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "committer": {
+        "login": "alcatrazEscapee",
+        "id": 35673674,
+        "node_id": "MDQ6VXNlcjM1NjczNjc0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/35673674?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/alcatrazEscapee",
+        "html_url": "https://github.com/alcatrazEscapee",
+        "followers_url": "https://api.github.com/users/alcatrazEscapee/followers",
+        "following_url": "https://api.github.com/users/alcatrazEscapee/following{/other_user}",
+        "gists_url": "https://api.github.com/users/alcatrazEscapee/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/alcatrazEscapee/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/alcatrazEscapee/subscriptions",
+        "organizations_url": "https://api.github.com/users/alcatrazEscapee/orgs",
+        "repos_url": "https://api.github.com/users/alcatrazEscapee/repos",
+        "events_url": "https://api.github.com/users/alcatrazEscapee/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/alcatrazEscapee/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "parents": [
+        {
+            "sha": "c9cf2915a6f2a1c6ad3597500b2e485662cd1291",
+            "url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/commits/c9cf2915a6f2a1c6ad3597500b2e485662cd1291",
+            "html_url": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/commit/c9cf2915a6f2a1c6ad3597500b2e485662cd1291"
+        }
+    ],
+    "stats": {
+        "total": 15,
+        "additions": 9,
+        "deletions": 6
+    },
+    "files": [
+        {
+            "sha": "16f8d853ccbebaa01373fb43473e3dbcb42be28b",
+            "filename": "src/main/java/net/dries007/tfc/common/items/VesselItem.java",
+            "status": "modified",
+            "additions": 9,
+            "deletions": 6,
+            "changes": 15,
+            "blob_url": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/blob/1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3/src%2Fmain%2Fjava%2Fnet%2Fdries007%2Ftfc%2Fcommon%2Fitems%2FVesselItem.java",
+            "raw_url": "https://github.com/TerraFirmaCraft/TerraFirmaCraft/raw/1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3/src%2Fmain%2Fjava%2Fnet%2Fdries007%2Ftfc%2Fcommon%2Fitems%2FVesselItem.java",
+            "contents_url": "https://api.github.com/repos/TerraFirmaCraft/TerraFirmaCraft/contents/src%2Fmain%2Fjava%2Fnet%2Fdries007%2Ftfc%2Fcommon%2Fitems%2FVesselItem.java?ref=1af1a06744531cf7cbaaabfaa29c4460bb9ac7b3",
+            "patch": "@@ -78,14 +78,17 @@ public boolean overrideStackedOnOther(ItemStack stack, Slot slot, ClickAction ac\n         {\n             for (int i = SLOTS - 1; i >= 0; i--)\n             {\n-                final ItemStack current = vessel.getStackInSlot(i);\n-                if (!current.isEmpty())\n+                final ItemStack simulate = vessel.extractItem(i, 64, true);\n+                if (!simulate.isEmpty())\n                 {\n-                    final ItemStack oldStack = current.copy();\n-                    final ItemStack leftover = slot.safeInsert(current);\n-                    if (leftover.getCount() != oldStack.getCount())\n+                    final ItemStack extracted = vessel.extractItem(i, 64, false);\n+                    final ItemStack leftover = slot.safeInsert(extracted);\n+                    if (!leftover.isEmpty())\n                     {\n-                        vessel.setStackInSlot(i, leftover);\n+                        // We can't simulate the `safeInsert` above, so we have to revert whatever leftover was obtained here\n+                        // Insert should be safe, because the previous extract extracted a full stack, and so should leave the slot empty\n+                        vessel.insertItem(i, leftover, false);\n+\n                         // Update slots, if we're in a crafting menu, to update output slots. See #2378\n                         player.containerMenu.slotsChanged(slot.container);\n                         return true;"
+        }
+    ]
+}
